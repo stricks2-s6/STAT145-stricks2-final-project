@@ -1,7 +1,8 @@
 # STAT145-stricks2-final-project
-In the social world, journalism matters because it informs people on events and data, and common sense suggests a pattern between cultural relevance and geographic scope within the population. But, to the best of our knowledge, its not yet clear whether cultural relevance and geographic scope are actually related or how big that relationship is. Therefore, we analyze the bivariate relationship between cultural relevance and geographic scope using a contingency table and a chi-squared test.  
-# Intructions
-
+In the social world, journalism matters because it informs people about events and data, and common sense suggests a pattern between cultural relevance and geographic scope within the population. But, to the best of our knowledge, its not yet clear whether cultural relevance and geographic scope are actually related or how big that relationship is. Therefore, we analyze the bivariate relationship between cultural relevance and geographic scope using a contingency table and a chi-squared test.  
+# Instructions
+To access and utilize the script, open the "stricks-final_project.R" file, which contains the code for my project. To access the dataset, open the "data.csv" file.
 # Data
-
-# Oper
+The data that was collected from this project came from articles within the New York Times, because it has so much range and variety. The goal of the research was to answer the question of whether the geographic scope level has a relation to how culturally relevant a topic is.
+# Operationalization
+In this study, the two main variables are geographic scope and cultural relevance. Geographic scope was measured by coding each article based on how wide its coverage was. Articles were coded as local (1), national (2), or international (3). Cultural relevance was measured by coding how meaningful the topic was to broader cultural or social discussions. Articles were coded as having no relevance (1), weak relevance (2), moderate relevance (3), or strong relevance (4). Assigning numerical values to these categories allowed both variables to be analyzed quantitatively using a contingency table and a chi-square test.
